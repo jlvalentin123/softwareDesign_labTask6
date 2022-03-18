@@ -1,1 +1,1 @@
-# softwareDesign_labTask6
+# Lab-6
